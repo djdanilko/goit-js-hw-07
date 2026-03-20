@@ -17,7 +17,7 @@
 
 // console.log(loginPassword);
 
-const form = document.querySelector("form");
+const form = document.querySelector(".login-form");
 
 const loginPassword = {};
 
