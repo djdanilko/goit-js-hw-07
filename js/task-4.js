@@ -36,4 +36,5 @@ form.addEventListener("submit", (e) => {
   loginPassword.password = password;
 
   console.log(loginPassword);
+  form.reset();
 });
